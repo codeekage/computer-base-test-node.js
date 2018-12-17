@@ -1,0 +1,16 @@
+{
+    "stud_id": "MEDI-12455-99945-ccc",
+    "firstname": "Student",
+    "lastname": "ijoku",
+    "middlename": "okon",
+    "regdate": "23456789",
+    "passkey": "finishit",
+    "passkeyConf": "finishit",
+    "email": "agiriabrahamjunior@gmail.com",
+    "student_academics": {
+        "stud_dept": "Medicine",
+        "stud_faculty": "of teeth",
+        "courses": ["fail", "pass", "avg"],
+        "stud_level": "100 Level"
+    }
+}
